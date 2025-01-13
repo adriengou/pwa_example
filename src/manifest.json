@@ -1,0 +1,21 @@
+{
+  "theme_color": "#8936FF",
+  "background_color": "#2EC6FE",
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "any",
+      "src": "pwa_icon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-US",
+  "name": "pwa example",
+  "short_name": "pwaex",
+  "start_url": "/",
+  "description": "this is an example pwa",
+  "id": "pwa_example_id"
+}
