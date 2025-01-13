@@ -15,7 +15,7 @@
   "lang": "en-US",
   "name": "pwa example",
   "short_name": "pwaex",
-  "start_url": "/",
+  "start_url": "https://adriengou.github.io/pwa_example",
   "description": "this is an example pwa",
   "id": "pwa_example_id"
 }
